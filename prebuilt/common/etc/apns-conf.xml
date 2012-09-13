@@ -1018,7 +1018,10 @@
   <apn carrier="Pelephone" mcc="425" mnc="03" apn="internet.pelephone.net.il" user="pcl@3g" password="pcl" type="default,supl" />
   <apn carrier="Pelephone MMS" mcc="425" mnc="03" apn="mms.pelephone.net.il" user="pcl@3g" password="pcl" server="pelephone" mmsc="http://mmsu.pelephone.net.il" mmsproxy="10.170.9.54" mmsport="9093" type="mms" />
   <apn carrier="Rami Levy" mcc="425" mnc="03" apn="internet.rl" user="rl@3g" password="rl" type="default,supl" />
-  <apn carrier="Rami Levey MMS" mcc="425" mnc="03" apn="internet.rl" user="rl@3g" password="rl" server="pelephone" mmsc="http://mmsu.pelephone.net.il" mmsproxy="10.170.9.54" mmsport="9093" type="mms" />
+  <apn carrier="Rami Levey MMS" mcc="425" mnc="03" apn="internet.rl" user="rl@3g" password="rl" server="pelephone" 
+  <apn carrier="YouPhone"  mcc="425" mnc="14" apn="data.youphone.co.il" type="default" />
+  <apn carrier= YouPhone MMS" mcc="425" mnc="14" apn="data.youphone.co.il" mmsc="http://192.168.220.15/servlets/mms"  mmsport="80" type="mms" /> 
+mmsc="http://mmsu.pelephone.net.il" mmsproxy="10.170.9.54" mmsport="9093" type="mms" />
   <apn carrier="Jawwal Internet" mcc="425" mnc="05" apn="internet" type="default,supl" />
   <apn carrier="Jawwal WAP" mcc="425" mnc="05" apn="wap" proxy="213.244.118.129" port="8080" type="default,supl" />
   <apn carrier="Jawwal MMS" mcc="425" mnc="05" apn="mms" mmsc="http://mms.jawwal.ps/servlets/mms" mmsproxy="213.244.118.129" mmsport="8080" type="mms" />
